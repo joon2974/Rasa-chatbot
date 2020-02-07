@@ -74,6 +74,7 @@
 - D 드라이브 rasa 폴더의 rasachatbot 폴더에 들어가
 - npm run serve 실행 후 localhost:8080으로 접속
 
+
 # 3. 결과 화면
 ## 3.1. Chat UI with Vue
 - 초기 화면
